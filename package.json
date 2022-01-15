@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "adm-zip": "^0.4.13",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "superagent": "^5.1.0"
   }
 }
